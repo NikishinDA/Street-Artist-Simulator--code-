@@ -17,4 +17,4 @@ Used SDKs: FacebookSDK, GameAnalytics.
 
 ---
 
-Preview: (tbd)
+Preview: https://youtube.com/shorts/gAzb6bCybdM?feature=share 
